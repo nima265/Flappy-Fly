@@ -35,7 +35,7 @@ To run Flappy-Fly, you need to have Python installed on your machine. You can do
 
 Once you have installed the dependencies, you can start the game by running the following command:
 ```bash
-python main.py
+python FlappyFlyGame.py
 ```
 
 ## How to Play
@@ -49,11 +49,11 @@ python main.py
 
 - **Player Mode**: Press the space bar to make your character fly. Avoid obstacles by navigating through the gaps. Try to achieve the highest score possible.
 
-![Player playing the game](path/to/player_playing.gif "Player Playing the Game")
+![Player playing the game](Play-Yourself.gif "Player Playing the Game")
 
 - **AI Mode**: Watch the NEAT algorithm learn and master the game. The AI will start from scratch and improve over time by evolving and adapting to the game mechanics.
 
-![NEAT AI playing the game](path/to/neat_playing.gif "NEAT AI Playing the Game")
+![NEAT AI playing the game](Play-AI.gif "NEAT AI Playing the Game")
 
 ## NEAT Algorithm
 
