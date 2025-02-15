@@ -2,6 +2,7 @@
 
 Flappy-Fly is a fun and addictive game written in Python, inspired by the classic Flappy Bird. The objective is simple: navigate your character through a series of obstacles without crashing. As the game progresses, the difficulty increases, providing endless entertainment and challenge.
 
+![Flappy-Fly](https://github.com/nima265/Flappy-Fly/blob/main/Menu.png "Flappy-Fly")
 ## Features
 
 - **Simple Controls**: Easy to learn, difficult to master.
@@ -49,11 +50,11 @@ python FlappyFlyGame.py
 
 - **Player Mode**: Press the space bar to make your character fly. Avoid obstacles by navigating through the gaps. Try to achieve the highest score possible.
 
-![Player playing the game](https://github.com/nima265/Flappy-Fly/blob/main/Play-Yourself%20-%20Copy.mp4 "Player Playing the Game")
+![Player playing the game](https://github.com/nima265/Flappy-Fly/blob/main/PlayYourself.png "Player Playing the Game")
 
 - **AI Mode**: Watch the NEAT algorithm learn and master the game. The AI will start from scratch and improve over time by evolving and adapting to the game mechanics.
 
-![NEAT AI playing the game](Play-AI.gif "NEAT AI Playing the Game")
+![NEAT AI playing the game](https://github.com/nima265/Flappy-Fly/blob/main/PlayAI.png "NEAT AI Playing the Game")
 
 ## NEAT Algorithm
 
