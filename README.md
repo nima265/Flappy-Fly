@@ -17,6 +17,12 @@ Flappy-Fly is a fun and addictive game written in Python, inspired by the classi
 
 To run Flappy-Fly, you need to have Python installed on your machine. You can download Python from the [official website](https://www.python.org/).
 
+Additionally, you need to install the following Python libraries:
+- `pygame`
+- `neat-python`
+
+These dependencies are listed in the `requirements.txt` file.
+
 ### Installation
 
 1. Clone the repository:
