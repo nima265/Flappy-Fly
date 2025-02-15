@@ -42,14 +42,14 @@ python FlappyFlyGame.py
 
 1. When you run the game, you will first see a menu with a play button.
 2. Press the play button to go to the next page, where you will see two buttons:
-    - **Play Game**: This button allows you to play the game yourself.
-    - **NEAT AI**: This button lets the NEAT algorithm learn and play the game.
+    - **Play Yourself**: This button allows you to play the game yourself.
+    - **Play AI**: This button lets the NEAT algorithm learn and play the game.
 
 ### Gameplay
 
 - **Player Mode**: Press the space bar to make your character fly. Avoid obstacles by navigating through the gaps. Try to achieve the highest score possible.
 
-![Player playing the game](Play-Yourself.gif "Player Playing the Game")
+![Player playing the game](https://github.com/nima265/Flappy-Fly/blob/main/Play-Yourself%20-%20Copy.mp4 "Player Playing the Game")
 
 - **AI Mode**: Watch the NEAT algorithm learn and master the game. The AI will start from scratch and improve over time by evolving and adapting to the game mechanics.
 
