@@ -422,8 +422,10 @@ def play_game():
     DISPLAY.blit(lost_label, (WINDOW_WIDTH // 2 - lost_label.get_width() // 2, WINDOW_HEIGHT // 2 - lost_label.get_height() // 2))
     pygame.display.update()
     time.sleep(5)
-    pygame.quit()
-    quit()
+    
+    # Return to the main menu
+    show_menu()
+    show_mode_selection()
 
 
 def show_menu():
